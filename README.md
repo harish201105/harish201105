@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @harish201105
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Harish
+- 👀 I’m interested in full stack developent 
+- 🌱 I’m currently learning machine learning 
+- 💞️ I’m looking to collaborate on real-time appplications 
+- 📫 reach me through linkedin 
 
 <!---
 harish201105/harish201105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
