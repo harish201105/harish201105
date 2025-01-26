@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harish Parthasarathy
 - 👀 I’m a Full Stack Developer, Devops & ML engineer 
-- 🌱 I’m passionate about Web3 and Quantum Computing  
+- 🌱 I’m passionate about Web3, Metaverse, GenAI and Quantum Computing  
 - 💞️ I’m looking to collaborate on real-time appplications 
 - 📫 reach me through linkedin 
