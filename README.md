@@ -11,11 +11,10 @@ Hi! I'm Harish, a passionate student pursuing a Btech in Computer Science and En
 
 ## 🚀 Technical Experience & Interests
 - **Full Stack Development**
-- **DevOps and Tools**
-- **Cloud Computing**
+- **DevOps and Cloud**
 - **Data Science and Data Analytics**
 - **Machine Learning and Deep Learning**
-- **NLP and Computer Vision**
+- **Natural Language Processing and Computer Vision**
 - **Generative AI, LLMs, and MLOps**
 
 ---
